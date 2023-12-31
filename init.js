@@ -21,4 +21,4 @@
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
-© 2020 GitHub, Inc.
+//© 2020 GitHub, Inc.
